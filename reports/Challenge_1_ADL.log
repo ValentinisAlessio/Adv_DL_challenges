@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.4)  21 NOV 2024 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.4)  21 NOV 2024 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports/Challenge_1_ADL.tex
-(/home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports/Challenge_1_ADL.tex
+**/home/alevale/Desktop/DSAI/Adv_DL_challenges/reports/Challenge_1_ADL.tex
+(/home/alevale/Desktop/DSAI/Adv_DL_challenges/reports/Challenge_1_ADL.tex
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-10-09>
 (/home/alevale/.miktex/texmfs/install/tex/latex/base/article.cls
@@ -428,12 +428,12 @@ Package rerunfilecheck Info: File `Challenge_1_ADL.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  11694 strings out of 475612
- 180813 string characters out of 5770592
+ 180778 string characters out of 5770592
  603589 words of memory out of 5000000
  34334 multiletter control sequences out of 15000+600000
  571525 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,9n,79p,610b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,605b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1440.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></home/alevale/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/alevale/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/alevale/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/alevale/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on Challenge_1_ADL.pdf (7 pages, 1989653 bytes).
 PDF statistics:

@@ -1,6 +1,6 @@
-PWD /home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports
+PWD /home/alevale/Desktop/DSAI/Adv_DL_challenges/reports
 INPUT /home/alevale/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports/Challenge_1_ADL.tex
+INPUT /home/alevale/Desktop/DSAI/Adv_DL_challenges/reports/Challenge_1_ADL.tex
 OUTPUT Challenge_1_ADL.log
 INPUT /home/alevale/.miktex/texmfs/install/tex/latex/base/article.cls
 INPUT /home/alevale/.miktex/texmfs/install/tex/latex/base/article.cls

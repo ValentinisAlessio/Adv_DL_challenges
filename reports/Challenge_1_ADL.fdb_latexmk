@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1732186794.79305 "/home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports/Challenge_1_ADL.tex" "Challenge_1_ADL.pdf" "Challenge_1_ADL" 1732186796.13579 0
+["pdflatex"] 1732187039.72342 "/home/alevale/Desktop/DSAI/Adv_DL_challenges/reports/Challenge_1_ADL.tex" "Challenge_1_ADL.pdf" "Challenge_1_ADL" 1732187041.08757 0
   "/home/alevale/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1730734910.72243 29135 cc5205c46ef3f84f4d9c28169702164b ""
   "/home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1440.pk" 1730740778.90225 52860 15d72a5b9779457732c836f8efdc57bf ""
   "/home/alevale/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1730739604.9073 25420 5120262a9e3497678ecc25ccad56c257 ""
@@ -104,10 +104,10 @@
   "/home/alevale/.miktex/texmfs/install/tex/latex/refcount/refcount.sty" 1726853867.0476 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/home/alevale/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1726853876.31866 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/home/alevale/.miktex/texmfs/install/tex/latex/url/url.sty" 1726853873.20864 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "/home/alevale/Desktop/DSAI/Advanced_Deep_Learning/reports/Challenge_1_ADL.tex" 1732186793.96653 19341 d4eddb33a9b33f429e9356697b74a907 ""
-  "Challenge_1_ADL.aux" 1732186796.02253 5600 962e0b29021dc4f5efad579c11fa946d "pdflatex"
-  "Challenge_1_ADL.out" 1732186796.02453 4045 1eca7e01fa176b24c62fcb6a23c9cb22 "pdflatex"
-  "Challenge_1_ADL.tex" 1732186793.96653 19341 d4eddb33a9b33f429e9356697b74a907 ""
+  "/home/alevale/Desktop/DSAI/Adv_DL_challenges/reports/Challenge_1_ADL.tex" 1732187038.91606 19341 d4eddb33a9b33f429e9356697b74a907 ""
+  "Challenge_1_ADL.aux" 1732187040.97105 5600 962e0b29021dc4f5efad579c11fa946d "pdflatex"
+  "Challenge_1_ADL.out" 1732187040.97205 4045 1eca7e01fa176b24c62fcb6a23c9cb22 "pdflatex"
+  "Challenge_1_ADL.tex" 1732187038.91606 19341 d4eddb33a9b33f429e9356697b74a907 ""
   "images/kernel_pca.png" 1730996050.73636 810352 9cd26b4aafd19b273227925ea121597e ""
   "images/kmeans.png" 1730996068.84034 90711 ccce19ebbc53c4f2003e6eaf727d1a50 ""
   "images/kpca_spectrum.png" 1730996084.60732 67739 5c4d620861f91d341968d6a2caf6bb4e ""
