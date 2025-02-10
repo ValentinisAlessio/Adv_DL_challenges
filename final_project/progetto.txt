@@ -1,0 +1,7 @@
+Explicit bias to force separation of in the latent space
+
+TODO:
+- [X] Initialize the centroids as a set of random most-orthonormal vectors in the latent space (use Gram-Schmidt)
+- [X] Implement the loss function: regularize with the softmin of the norm of the distance from each centroids, or with 1-norm of the distance from each centroids
+- [X] Once converged try and look the images that activate the centroids the most
+- [X] Regularize minimizing the Froboenius norm of centroids.t @ centroids - I (orthonormality) in order to fix the centroids to be orthonormal
